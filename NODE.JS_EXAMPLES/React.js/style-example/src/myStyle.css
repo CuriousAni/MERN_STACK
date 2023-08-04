@@ -1,0 +1,11 @@
+body{
+    background-color: #236d54;
+    color: white;
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.info{
+    color:orangered;
+}

@@ -1,0 +1,13 @@
+body{
+    background: rgb(235, 203, 203);
+    font: 20px Arial;
+}
+
+h1{
+    color: rgb(216, 65, 123);
+    margin: left 20px;
+}
+p{
+    color: brown;
+    margin:left 20px;
+}
